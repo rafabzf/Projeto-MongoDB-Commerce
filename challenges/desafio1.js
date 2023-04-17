@@ -1,1 +1,1 @@
-// teste
+db.produtos.countDocuments({});
